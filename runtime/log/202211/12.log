@@ -1,0 +1,39 @@
+[2022-11-12T00:56:55+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-11-12T00:57:07+08:00][error] array (
+  'openid' => 'oLwy45n8t-aSlu7gssqNm9RFJhEo',
+  'nickname' => '情话',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKhaaFthLiaf6kDJZkTFtqfWPFicsv6YRicthsicgpTJAPdPn7DUScPAjZgZGTlkSJzvD9ukEhluSbrRg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2022-11-12T11:51:29+08:00][error] array (
+  'openid' => 'oLwy45sVMLSzQt_tyiACJ8e2cG7Y',
+  'nickname' => 'xino',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/DvJaPkYbxjuia7yjXAHUeOcknyp9ic7Dibu66w489Hv23fV6TRPMTIeNwZw0kOryRcfusPU0uibwicGTbp4WZt30nicQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

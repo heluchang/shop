@@ -1,0 +1,60 @@
+[2023-06-20T12:52:18+08:00][error] array (
+  'openid' => 'o0ojJ5lY6nLRROVU8MbTFlwuBypk',
+  'nickname' => '快乐的小蜜蜂',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/mHtdScv0jlQVUpX2v2VHVJaTsr0AABUS5ricb8yv3A8wbZQb5lGZ2VyDbKQEusmqUTsOKwKxP4sCIdPejIqc65A/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-20T18:22:06+08:00][error] array (
+  'openid' => 'o0ojJ5tst1l8x9lzhMz2I3cXp0HA',
+  'nickname' => '.',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJKP35ev7WMJbZwgNb2HibCgbpCd0ic7ZKszLqRBOEeQX2ibmaRx11F9ianZhRibpbaKmtMYATCOicPbnJQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-20T23:56:59+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-06-20T23:57:05+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-06-20T23:57:27+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-06-20T23:57:33+08:00][error] array (
+  'openid' => 'o0ojJ5nfIK0IqxWu_n65XlwYjoKc',
+  'nickname' => 'Z. Q',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/FmPp7GdSQibZWoDPXuBicW48UlxLH230ibDwfT3dR91Dib1KRiagnWP7cNsvKibsVFgmyDqX67CeM14gqFrl6WT5iateg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

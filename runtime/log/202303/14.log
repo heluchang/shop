@@ -1,0 +1,22 @@
+[2023-03-14T23:42:08+08:00][error] [0]账号或密码错误，请重新输入[/www/wwwroot/h5.jklei.club/app/services/system/admin/SystemAdminServices.php:70]
+[2023-03-14T23:42:19+08:00][error] [0]账号或密码错误，请重新输入[/www/wwwroot/h5.jklei.club/app/services/system/admin/SystemAdminServices.php:70]
+[2023-03-14T23:42:58+08:00][error] [0]账号或密码错误，请重新输入[/www/wwwroot/h5.jklei.club/app/services/system/admin/SystemAdminServices.php:70]
+[2023-03-14T23:56:16+08:00][error] array (
+  'openid' => 'o_RmP55K6lx5dseCpDiJkt9452kI',
+  'nickname' => '_乐酷',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/znMKOqYzbbdLE5muXcWc98picV4xHz4WgMZic7JsKatnTx9dX8CcY0KrmG0x7FTp9gaO806lX7BBT9pFs1mBtQWA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

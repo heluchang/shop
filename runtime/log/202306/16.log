@@ -1,0 +1,19 @@
+[2023-06-16T12:46:03+08:00][error] array (
+  'openid' => 'o0ojJ5spNDgIQX4WxryRx7az2mjQ',
+  'nickname' => '玖玥',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/VLuiaQ7DuusNL4FFE6H8HhuAaaUovVGHVRnaJ37T9ibncolrxhiat2VwUKA88nia0Lf3ibYL6OWOxGRAfZ1QQNeoYrQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

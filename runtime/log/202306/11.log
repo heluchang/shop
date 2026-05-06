@@ -1,0 +1,42 @@
+[2023-06-11T03:02:11+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-11T03:02:17+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-11T03:02:19+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-11T15:21:17+08:00][error] [400]Invalid request XML.[/www/wwwroot/600.k0513.top/vendor/overtrue/wechat/src/Payment/Notify.php:101]
+[2023-06-11T15:45:27+08:00][error] array (
+  'openid' => 'o0ojJ5toX7WY8V_HXkARrNFdI9xY',
+  'nickname' => '倩',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJUB8g2YibdsrJXnjsiagupWticrZlmcicFhucb9bsUPqdhMibgiayB7sFOAX8DBhqDTqsokrolYhj1Hyibg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-11T16:11:07+08:00][error] array (
+  'openid' => 'o0ojJ5sQ1RXfcdhu1eeWaq0Uje7s',
+  'nickname' => '媛媛',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/HjvMqHeYYwKmBUj2aMjDzctbnPHaoCV1Yqr77cjmzYmtdbXrbBhqSvYEEN3O3icwRF1FMhMqGv519a22xUufHQg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

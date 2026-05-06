@@ -1,0 +1,19 @@
+[2023-05-07T11:47:14+08:00][error] array (
+  'openid' => 'o0ojJ5qr4ibJdfyBc-9jB4M-JQfE',
+  'nickname' => '替岁月许个愿',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJTOuGuPUvah5KM8Abuea77efgq2Yib8PTswpHB8Oh265Ddkz5ibS4QQD7MfzaPGnpENficnqm8iaYChA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

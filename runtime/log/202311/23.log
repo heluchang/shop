@@ -1,0 +1,62 @@
+[2023-11-23T00:20:21+08:00][error] array (
+  'openid' => 'ot8lH6sGSNBo8NKZ1kJusIiD1P8I',
+  'nickname' => '梦月橙汁',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJsticEmf4DZ9Lx1H1qJFLJzVUnfxl5S0H5A6RDrcKias6doJDeJ0WBFKIIrIaRZXIBBkILBVg9CHJ2XRCdoKUacf8xKKClTbAxxkJQH4UZpPww/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-23T03:08:45+08:00][error] array (
+  'openid' => 'ot8lH6lR6bfBk_EmovcDMTCsPIX8',
+  'nickname' => '容.信息不回可打语音（备明来意）',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/ibJD46kVicicicy14c9nKbHojkian6NxOOcpF5eWDpWvKaYJ3umdkqpbKOznibpon87x3hX6YBzibJXmYUAvu3ln3oib1Q/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-23T11:52:34+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/old.payshu.top/app/services/user/LoginServices.php:128]
+[2023-11-23T11:53:05+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/old.payshu.top/app/services/user/LoginServices.php:128]
+[2023-11-23T11:53:15+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/old.payshu.top/app/services/user/LoginServices.php:128]
+[2023-11-23T11:53:54+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/old.payshu.top/app/services/user/LoginServices.php:128]
+[2023-11-23T11:54:13+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/old.payshu.top/app/services/user/LoginServices.php:128]
+[2023-11-23T13:16:08+08:00][error] array (
+  'openid' => 'ot8lH6i3Zr2YcFF1UAIVFYqNrvEM',
+  'nickname' => '是你',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJTqcBC6lVDsdL24dEGqUh4siaujyPoe3j4LVSUz4Hicd88Kzb3Brneria1pKTYhL4OZCrxsH56PUQVg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

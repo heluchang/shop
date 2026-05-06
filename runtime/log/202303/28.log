@@ -1,0 +1,19 @@
+[2023-03-28T16:28:39+08:00][error] array (
+  'openid' => 'o_RmP5wJBGjN_mENTlEIWnbuFwkc',
+  'nickname' => '黄豪',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/k5jpicVo3ANVdOhCr4x19hOXv7RC06Qe9enzJMKthGQUMQkhCzqvCYqSOpw1sr84fvhSCWehibhhIRn6TbU1Hqlw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

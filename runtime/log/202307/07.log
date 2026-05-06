@@ -1,0 +1,52 @@
+[2023-07-07T12:07:46+08:00][error] array (
+  'openid' => 'o0ojJ5viC8ADzx_iMrpm0c1fRKmQ',
+  'nickname' => '琪宝',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKPw6IFLuyxufaBr2fhS09XNzFe7ulfXMTfrPFQ9xdSpMJ2sxkgtSD7Ye4t9JCJ7rWZS65hA1mRPw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-07-07T12:51:12+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T12:51:52+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T12:52:49+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T12:52:59+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T12:53:21+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T12:54:10+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T12:54:54+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T12:56:24+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T13:20:06+08:00][error] array (
+  'openid' => 'o0ojJ5h2sWaI29om9pEm_5cxkUDI',
+  'nickname' => '嘟嘟嘟',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/NpwmDRHFNmxyJOicDy9slnV0YpBDaupuTtbcLRPgyq1xQO6hZicIZxDQVNqzFp4h3lJHAhz8tOnxTiakxjoqD2KfQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-07-07T21:28:10+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-07-07T21:28:12+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-07-07T22:19:37+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T22:20:01+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T23:54:16+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-07T23:54:30+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]

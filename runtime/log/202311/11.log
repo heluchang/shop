@@ -1,0 +1,134 @@
+[2023-11-11T10:31:12+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/mn.payshu.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-11-11T10:31:22+08:00][error] array (
+  'openid' => 'oR2OF6kzUGylszr0MmXvo--WMmGM',
+  'nickname' => '赵丽',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/SqdZeNRC0cP7898YWmSIu58ia3YeKM0fl3N7LuPBibGk5cj4LuTrkiciafqfaQtUMVXea6K5brliaYTdOnX5cTwUAnOmJK8lFtLTdjut5en7Oic7I/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-11T14:41:59+08:00][error] array (
+  'openid' => 'oR2OF6r_4rKP8CU_niq8Qsctbs0g',
+  'nickname' => '羊',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEISqAjcAUlicJIeRpnAEMsQ6601Huu9vfpShRI4bOP18bFrQ3Wodlm3PKtSTZHGw4NDefJtprWzJdfzMSQr3mibt6XyxEAcD9SdIhuIpk93LXOA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-11T21:28:09+08:00][error] array (
+  'openid' => 'o4eMN65uCyZ_f5ynLC02rEXosL-4',
+  'nickname' => '昌',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/HianIRLkV3Ws7xZtnib2XbHWQDopuePpU9v0mU7qjQScazY9icssuBdqn6sayfUAcPW99uNIwIuPPu3B4ZV5XMRWw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-11T21:28:52+08:00][error] array (
+  'openid' => 'o4eMN60C0eqAAbpQhmuQCi4EhLpI',
+  'nickname' => 'K.（说明来意）',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/QzbiaBibxkytCwzTZm5PCxPo2uocX7St1ZW1PJPadaGSfFPSnksHp6LesTa1uOCzQQO0VNh6bn4cGicYaxic2c5Zcg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-11T21:31:42+08:00][error] array (
+  'openid' => 'o4eMN6zd07UbnqhyvvtQqfesti4k',
+  'nickname' => '容.信息不回可打语音（备明来意）',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/MQOZwlbgTfvazbnbqFU0tLKD8E9lkLo4gQbedJVB7tQ5iaKhibdMII0vib6YuHcfegrwXAmr0YbOXnqxrqEtnvhvA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-11T21:32:33+08:00][error] array (
+  'openid' => 'o4eMN6-fCtLHG-8rREdRMRHL3f1w',
+  'nickname' => '剑神',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/L1AK6aql5I29O6XEPkhl9gyfWqxLc7ViaNEPSpR5TntnNDibNkvpjfoCBMG59gFtos6DDCV6D8WZEhxaFxOVvuhWOzhWwicsn4QQFIAUptRhnc/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-11T21:35:52+08:00][error] array (
+  'openid' => 'o4eMN68h1qgcemjlE1UAQzbyp874',
+  'nickname' => '亭亭',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83er6AcSpU3AEQYBxQ4mhLQwQXqdhSTLRAjCCqgUYrorejibTComibzlvMo09VsuabsSTiaMfS1DlKuIYg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

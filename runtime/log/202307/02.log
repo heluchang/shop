@@ -1,0 +1,39 @@
+[2023-07-02T11:26:25+08:00][error] array (
+  'openid' => 'o0ojJ5s8g-a5i1CTThXDQnBrAtJM',
+  'nickname' => '琪琪',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Zg7pZ2EFScsGkWpPibZb3tcVQJfniba4iaqDK9PBv7qaiaqGbb8aibY5d693qFdTPkgvZOhUJHVxstNbuDypRcKCZlg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-07-02T12:09:34+08:00][error] array (
+  'openid' => 'o0ojJ5jChR09VxqTfaU8xxkN1aSQ',
+  'nickname' => '小康同学',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/nH14McNokqIEMywbsbmC4nHl2hWzVvGSZ7WMXEmhZsL6WVcHjticE2yFIREVnticPIDMyAQicro92Q5L4QO9Wdgmw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-07-02T15:17:51+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]

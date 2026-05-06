@@ -1,0 +1,60 @@
+[2023-06-21T06:20:09+08:00][error] array (
+  'openid' => 'o0ojJ5oMDVAXNFp3QV4rQP_4iHnc',
+  'nickname' => '人事招聘-经理',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIicTgeWHvTfhpic1uK32ZftYjAYqcTntMupicuC7GISFWp9YUC4gkyOUPFkwCJOasTlNHqXUbf9xUhg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-21T15:58:52+08:00][error] array (
+  'openid' => 'o0ojJ5tSzwqjLWCXj4sWXmFoo_RA',
+  'nickname' => '诚信山鸡@卤面、粉团',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLV9rhlIrTlreaPcM4gIQyibzDj1LBOsKdkOpe62jhDDe1vXibVhIBPWanyhfOwtzJXbq6zMyav878g/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-21T18:19:04+08:00][error] array (
+  'openid' => 'o0ojJ5q3R3pZscmyj0XlqZ9m-QmI',
+  'nickname' => '明天见.',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/oqcLEJAic4CpVufsQNanGEbj8XSrQHxibdaURdibf60PgnI1dXgASshHSaxkxsYpTo7jjaOgbKmr3E9EPZjrZzJJg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-21T19:32:08+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-21T19:32:43+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-21T19:33:26+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]

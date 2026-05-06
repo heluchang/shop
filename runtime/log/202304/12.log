@@ -1,0 +1,42 @@
+[2023-04-12T00:41:15+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/h5.jklei.club/app/services/user/LoginServices.php:128]
+[2023-04-12T00:41:46+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/h5.jklei.club/app/services/user/LoginServices.php:128]
+[2023-04-12T00:43:16+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/h5.jklei.club/app/services/user/LoginServices.php:128]
+[2023-04-12T00:45:19+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/h5.jklei.club/app/services/user/LoginServices.php:128]
+[2023-04-12T15:15:00+08:00][error] array (
+  'openid' => 'o_RmP59VW9a5Svi8bhN7cMnzCDvQ',
+  'nickname' => 'momo',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4ic7BAicJzStHFdSd8gpZXe9vgFdP9EbfLqLyFqKHmqXxJXsBgMCv0x1oKcgBcET0KdW5BmibeoVia3w/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-12T15:17:12+08:00][error] array (
+  'openid' => 'o_RmP5y8U4wz3uFh25PrJzpx8dS8',
+  'nickname' => '潇洒的微笑。',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTL4OFo3fgQTMCNmpbf2TIlXkUTHylN1GHsHNI18mcRdGzpdtPjIdEJicpp3EdnEibnjuhc4Z6UwEMvw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

@@ -1,0 +1,47 @@
+[2023-03-05T14:07:04+08:00][error] array (
+  'openid' => 'oTrkU57dBhUmcumom6yEaVKKwJsQ',
+  'nickname' => '啊婷',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqlKibBOMadsssM9lgwos47pENcaVVVD5x1Bl3WBg0tN6U3nGdsPiaTYLQliaFVTwcvqyaE4Bk29biaJw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-03-05T15:21:23+08:00][error] [400]Invalid request XML.[/www/wwwroot/zhao.mtwm.top/vendor/overtrue/wechat/src/Payment/Notify.php:101]
+[2023-03-05T15:25:57+08:00][error] [400]Invalid request XML.[/www/wwwroot/zhao.mtwm.top/vendor/overtrue/wechat/src/Payment/Notify.php:101]
+[2023-03-05T15:25:58+08:00][error] [400]Invalid request XML.[/www/wwwroot/zhao.mtwm.top/vendor/overtrue/wechat/src/Payment/Notify.php:101]
+[2023-03-05T15:25:59+08:00][error] [400]Invalid request XML.[/www/wwwroot/zhao.mtwm.top/vendor/overtrue/wechat/src/Payment/Notify.php:101]
+[2023-03-05T15:26:00+08:00][error] [400]Invalid request XML.[/www/wwwroot/zhao.mtwm.top/vendor/overtrue/wechat/src/Payment/Notify.php:101]
+[2023-03-05T15:26:01+08:00][error] [400]Invalid request XML.[/www/wwwroot/zhao.mtwm.top/vendor/overtrue/wechat/src/Payment/Notify.php:101]
+[2023-03-05T15:26:03+08:00][error] [400]Invalid request XML: simplexml_load_string(): Entity: line 5: parser error : Start tag expected, '&lt;' not found[/www/wwwroot/zhao.mtwm.top/vendor/overtrue/wechat/src/Payment/Notify.php:95]
+[2023-03-05T15:26:03+08:00][error] [400]Invalid request XML: simplexml_load_string(): Entity: line 5: parser error : Start tag expected, '&lt;' not found[/www/wwwroot/zhao.mtwm.top/vendor/overtrue/wechat/src/Payment/Notify.php:95]
+[2023-03-05T15:26:03+08:00][error] [400]Invalid request payloads.[/www/wwwroot/zhao.mtwm.top/vendor/overtrue/wechat/src/Payment/Payment.php:108]
+[2023-03-05T21:45:07+08:00][error] array (
+  'openid' => 'oTrkU5_zwd4WIaUduz7DwXIqQSc4',
+  'nickname' => '小美',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/0tOImISYW8hfMmibIRdoqKnELmEB8M9QrlqqbiaJdTTAHapeCcIKIJ5ZjNDMJys7icHOaO5WJd9xT38SzRe6MEzug/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

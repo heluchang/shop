@@ -1,0 +1,19 @@
+[2022-12-06T22:22:43+08:00][error] array (
+  'openid' => 'oLwy45ukWSMUC9_TsJYOdoqYHzSk',
+  'nickname' => '雅新baby',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/U1P8vXRqFm6bwI3xSnrfGwRoZsn3hciaXZ2Knq4d2qFjRhlaDj7XogEYfaa75RNXRjP1kvsDLocuhbVDUpbV9FA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

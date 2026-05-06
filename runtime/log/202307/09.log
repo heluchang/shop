@@ -1,0 +1,69 @@
+[2023-07-09T11:23:51+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-09T11:24:08+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-09T11:24:21+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-09T11:25:03+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-07-09T18:20:26+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-07-09T18:20:27+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-07-09T18:20:30+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-07-09T18:20:38+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-07-09T18:20:45+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-07-09T18:20:49+08:00][error] array (
+  'openid' => 'o0ojJ5mvIETeZyUJVpn2pdCSbej4',
+  'nickname' => '日出.',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIqfDSqNHpP5M81JF03hRTHC0K0x4Uia73dqqeKBR6fRtiazuuedznne5NvJE0Ewh3OSWsLwPmxMGlw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-07-09T18:20:59+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-07-09T18:21:01+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-07-09T18:21:19+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/600.k0513.top/crmeb/services/AccessTokenServeService.php:127]
+[2023-07-09T20:23:14+08:00][error] array (
+  'openid' => 'o0ojJ5s0QIwQUHbP9MSJ30PxScGQ',
+  'nickname' => '',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLeNjE8jfWHeWaUvIoqicr1dMnib94icxOBoce6VKhjgG9NY6SyiajBGBzBcnDLGlRj2LMfbWX3RzJPow/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-07-09T22:00:40+08:00][error] array (
+  'openid' => 'o0ojJ5kU3VEhzd7-OFBrnViRbUTY',
+  'nickname' => 'emm',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIHOqZRELJOOcHQtdmb3OicPRaNx11FgeX7tiau7XMdKfWYNYvsaa6GDB2SRSRL2PVRibx8ycvPPIZiaA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

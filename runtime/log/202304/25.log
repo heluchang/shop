@@ -1,0 +1,156 @@
+[2023-04-25T00:01:57+08:00][error] array (
+  'openid' => 'o0ojJ5vgzt3_-QYb9WJM6UanaSFM',
+  'nickname' => '%',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/KdibZcFgaewx4HibmqbJOCeor49twQbjKQHqsyYA7eeF5Gx59ZicQwp9IeanZRB9JuABzeZPrLKeHqic4BnmB4EI5A/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-25T12:34:48+08:00][error] array (
+  'openid' => 'o0ojJ5l9FichH5wq8EcCG3X3BWmk',
+  'nickname' => '爱吃香菜、',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/4kF5cFK9MN4eb7IsibOXKmvGXQicoeONeaMIq8uVul8Mm362BuJZW2n6aHCU8KdvWa30yf79Ivghz1z1AKZWHZibw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-25T13:13:49+08:00][error] array (
+  'openid' => 'o0ojJ5vcIOyv7nwUoURTmRuCeQNs',
+  'nickname' => 'Lime（青柠）',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/ic9HEu3cwzRnbuw25iaiboDHpMMPACBC3Hcmk2aCrjcaXLZznWn3IaD4AjvGanZ1XN67PZR6YLv1Zh5NgzxoQYnJw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-25T15:03:08+08:00][error] array (
+  'openid' => 'o0ojJ5gmEWOYWihRkr_eNrONAjKI',
+  'nickname' => '还',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/5u9ibEU2pUTFiaWfJpGicVwqJV4HpjMIHm1c56I80NYqs884FibkYWY0U6AdxaT4QYyibR1BgTibOd0GPbQQJfXFYyibg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-25T15:17:25+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-25T15:18:20+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-25T15:19:06+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-25T15:20:08+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-25T15:32:57+08:00][error] array (
+  'openid' => 'o0ojJ5ocBTP_TkhQkj5kRsL7yyHw',
+  'nickname' => '天舒',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLU3MoLHJuuF89qSDGfxuIEpUd8eV11Eh68jj8PVHnYkgVCYpC6HtMQJ2iaFiadJ0UyUabLVRrlHZAQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-25T15:59:45+08:00][error] array (
+  'openid' => 'o0ojJ5oqX5P-0MMRQgDe6TkvWs2M',
+  'nickname' => '谭卷卷',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/uMVhzD7EicqmzAXmXyLHk6mjIqv6kyZ8noujCye6rKL3suUvRAj4VSLiaiap6OWZVQFerq3ibbyl7LHlWJyTmtG7dw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-25T19:16:13+08:00][error] array (
+  'openid' => 'o0ojJ5mQGwqeeNgaOPRsLI8A36VM',
+  'nickname' => 'smile',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTK70E6o7RT6UfPN7vDrJOK5JbWLvDKmYWKUkxPa1TllsuoytvmKPibooBcG6DX0ggXLZloIaej4rvQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-25T20:30:11+08:00][error] array (
+  'openid' => 'o0ojJ5gDFtSDZlFxttEnFdNnDzjc',
+  'nickname' => '草莓',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLCTv2BrmBjvZIWgVMn6tV8DRa7659CS0ILMRlGUwZxTHLnotWVaCf6Vp1KUohEwL10RY5oEYia6zQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

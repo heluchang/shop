@@ -1,0 +1,77 @@
+[2023-06-03T10:58:00+08:00][error] array (
+  'openid' => 'o0ojJ5kryYHud6G7Au-P4bo2ZUaQ',
+  'nickname' => '',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/zEm7DtfB7ZYwBzwrAxR4EMrypK2mtd0RCkCJdYlwOqfUotiadwLY1CU45ibp2JoWzULhUk6SKVp8maho26DAHLCQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-03T11:30:18+08:00][error] array (
+  'openid' => 'o0ojJ5qNcdP7wnWkuj5d3gZoKEsw',
+  'nickname' => '领悟',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTK3J3ibfU6PqiaRcWLw0QdtaablnSK2hIXKcTQpPm8MwUCI3Y4T4y5uHj6dwNdTYTKkFvLaFnrNNM4A/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-03T13:05:54+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-03T13:44:18+08:00][error] array (
+  'openid' => 'o0ojJ5uZHb746NBIG2UjBuILvr4M',
+  'nickname' => 'easy',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Eq107T2bQzibF7OoBBsomFzXdu1fnIlHuyuotUa0tnF41Fzl97bgKUfNYELY4FyzwAYF0NHPzZTuYIXBScUUvAw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-03T14:50:03+08:00][error] array (
+  'openid' => 'o0ojJ5ksYw3lvWe-74r0Vk2PAebc',
+  'nickname' => '_kitty',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTL9d2X81g2W6icTta3jdTpmxjG5RD01iakMtS9vYvuyicggNg454ZXncShEyTKSNb5ybicpRiaicibjrkDtg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

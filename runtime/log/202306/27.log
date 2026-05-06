@@ -1,0 +1,61 @@
+[2023-06-27T02:41:16+08:00][error] array (
+  'openid' => 'o0ojJ5q0oHeR6aiiZ2PP8rjcBXcM',
+  'nickname' => '小涛',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqGMc5F8yGTcqsPy9RjibIiakubl2JL7nIwFzF7DuqvYlaUVC1hx0oiaicggS5kTM4UtcjNmFDttIHKwQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-27T08:46:57+08:00][error] array (
+  'openid' => 'o0ojJ5jzNnmorcbpW7zc_JfAO95s',
+  'nickname' => '设计',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/5Ky6OG5x645DibCm6icwsXQFUTJ11v2VFy9KYEHUib8QPyHf0EzrwMXrzKJLzibShhbXvUxsz0d68ytnaptHqwYEuQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-27T11:51:31+08:00][error] array (
+  'openid' => 'o0ojJ5jKqQiMVJB6seGDGlOFrlDo',
+  'nickname' => 'smile',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKAxXTEpaHO4LOjCrsia4wdicccgs1gt6vhU4QcpaTChHo44FLiagdGf9uS4WCppwYblYTAFEichfVPTA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-27T14:20:28+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-27T14:48:09+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-27T14:56:03+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-27T17:48:44+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]

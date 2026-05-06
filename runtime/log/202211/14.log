@@ -1,0 +1,77 @@
+[2022-11-14T11:05:03+08:00][error] array (
+  'openid' => 'oLwy45ty00YQ_jDBd1062LRaAfHI',
+  'nickname' => '',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/aPVbEGZiciaTbyXd5SHY9lpDORtHeicSPRuew5cJPUAFabXxTxSianoHv6wJd0F9deOZdfv5KzM3tib0ybOdNGWKFmQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2022-11-14T16:02:19+08:00][error] array (
+  'openid' => 'oLwy45g7J3n4f0STHps_WJHaPAXM',
+  'nickname' => '阿星',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/RbGf9FKbOibgycHxayOwVkABhoNofakEzS17fRWGzXicpediaGXN8A3RZGXbRfPSibPGjxnfRPLU38ZCchfCiawbhpw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2022-11-14T16:14:58+08:00][error] array (
+  'openid' => 'oLwy45jESZ0eYRoOjO5ad4MPtq_w',
+  'nickname' => '啊七',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTID9ArXkS4HUz3X3icxGWehwn6J9eweWKU6PcywJYiacMeGqSMzM7SMWdqMYMxSiagTib1HlzBsGLsnHw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2022-11-14T16:16:15+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-11-14T20:48:46+08:00][error] array (
+  'openid' => 'oLwy45pHb4ShrvUZSoaPYU_Se7Zk',
+  'nickname' => '乐逍遥',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELiaRpgEiciaxoDaBEU0XlgsT5cWezStshNHqzIBib3ZpLqxNE7BPjEg9icPngrNUBCkbRkdicnrzjdQ7Pg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

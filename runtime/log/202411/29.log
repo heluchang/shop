@@ -1,0 +1,37 @@
+[2024-11-29T12:52:32+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T12:53:26+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T12:53:51+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T12:54:06+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T12:54:11+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T12:54:12+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T14:56:02+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T14:56:09+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T14:56:10+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T14:59:57+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T19:16:02+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T19:16:07+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T19:16:16+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T19:53:42+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T19:54:22+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T19:54:23+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T20:03:08+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-11-29T20:59:19+08:00][error] array (
+  'openid' => 'o4zqI5qJDccDMNMAqCQLPpjDg7h0',
+  'nickname' => '爱博',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/ibr4b3cCjpz4SCkTqguZxIAZl8NIRuPGNFeQOZpr1OGvGicPe7yoKpISLhzpDhpHnwVf13XYt8PsQtkNMYIjXdbw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2024-11-29T23:57:32+08:00][error] [0]Request AccessToken fail. response: {"errcode":40029,"errmsg":"invalid code, rid: 6749e46c-0051f852-5da47b49"}[/www/wwwroot/shop.slyxkj.cn/crmeb/services/easywechat/oauth2/wechat/WechatOauth.php:162]

@@ -1,0 +1,1 @@
+[2024-07-07T13:20:57+08:00][error] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'o4zqI5npEQFWjxCqw3ozASrpGR-o' for key 'openid'[/www/wwwroot/shop.slyxkj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php:771]

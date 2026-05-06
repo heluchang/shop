@@ -1,0 +1,9 @@
+[2022-12-07T02:14:37+08:00][error] [8]Trying to get property of non-object[/www/wwwroot/www.baidu.com/app/services/user/LoginServices.php:128]
+[2022-12-07T02:14:52+08:00][error] [8]Trying to get property of non-object[/www/wwwroot/www.baidu.com/app/services/user/LoginServices.php:128]
+[2022-12-07T02:15:36+08:00][error] [8]Trying to get property of non-object[/www/wwwroot/www.baidu.com/app/services/user/LoginServices.php:128]
+[2022-12-07T02:15:57+08:00][error] [8]Trying to get property of non-object[/www/wwwroot/www.baidu.com/app/services/user/LoginServices.php:128]
+[2022-12-07T02:16:15+08:00][error] [8]Trying to get property of non-object[/www/wwwroot/www.baidu.com/app/services/user/LoginServices.php:128]
+[2022-12-07T02:17:35+08:00][error] [8]Trying to get property of non-object[/www/wwwroot/www.baidu.com/app/services/user/LoginServices.php:128]
+[2022-12-07T02:19:34+08:00][error] [8]Trying to get property of non-object[/www/wwwroot/www.baidu.com/app/services/user/LoginServices.php:128]
+[2022-12-07T02:19:57+08:00][error] [8]Trying to get property of non-object[/www/wwwroot/www.baidu.com/app/services/user/LoginServices.php:128]
+[2022-12-07T21:33:10+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif

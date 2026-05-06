@@ -1,0 +1,42 @@
+[2022-12-21T00:19:18+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-12-21T00:20:33+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-12-21T00:22:16+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-12-21T16:02:44+08:00][error] array (
+  'openid' => 'oLwy45uMn9Q-xxgb4CHJeteKN8nk',
+  'nickname' => '小MEi',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/jFYFdV64v7eLq2ahEH4TZJjDGlSeakU6ReG9icLSyX85qbAqMuibsQRO7Z2D1wonZNsZ3xJfEztFJyLg9E1TD2Pg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2022-12-21T19:43:26+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-12-21T20:48:52+08:00][error] array (
+  'openid' => 'oLwy45q0urjH7dMBSrQ-0h29PZVE',
+  'nickname' => '.......',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erpibx5zJNQX4HwnJvbRF2EBJgEeXEiaLt3pFicF1hEFADQfBuur5xz78fZxYChVwSLiaG5cckicK38Tzw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

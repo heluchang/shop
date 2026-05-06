@@ -1,0 +1,118 @@
+[2023-06-04T00:43:11+08:00][error] array (
+  'openid' => 'o0ojJ5ooOoZteN5T1clges47W64A',
+  'nickname' => '至臻至善',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/0YRSb7hiaGZd1KflUEuPOrznvSd4UGKPPLiaic5mkGBkicB70PwnktZxRu3KlKGwl1rxGtnicpX74rleXSmrQqmyWew/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-04T01:37:05+08:00][error] array (
+  'openid' => 'o0ojJ5oiSp73IlhBN2GJEcADKm4c',
+  'nickname' => '等海',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/0XibgeBOwhKjvJt5UKenxdI5ibCrmBmYcXbHxicNiaouSRhKCtQHsyM9rXFibcibOKrbsITNtSfQW1Bz0nbSMfn49KHw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-04T03:42:39+08:00][error] array (
+  'openid' => 'o0ojJ5kg9k0lEkOK-qesmwt0_8so',
+  'nickname' => '着迷呀',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJuTqHbOvdF14nicKcvClTysASHZxiaAGR2VekiaUSXm9oFn3jYH8Ria0bjEtBicfTPEv4DEa1VrLBn2zQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-04T10:43:18+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-04T10:43:34+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-04T10:43:55+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-04T10:44:11+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-06-04T19:20:42+08:00][error] array (
+  'openid' => 'o0ojJ5rkCvHqGErEAFkCfAqaYxTA',
+  'nickname' => '求求',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eomKDhHDIN9W4b2wucOq026TlySgn6rKycRHkia1Dq9g9sVDfTU2hHuxL04NjtSqWNun10vBicHp1sQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-04T21:13:10+08:00][error] array (
+  'openid' => 'o0ojJ5hP6iKJWixbuyZS9fwZFCm8',
+  'nickname' => '一样',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q3auHgzwzM4CrPfMsib2nRGZnz5kIL96l7vMNbicI0Wdno0JLt7gtovrF5wolk05Fcr81ibtbUCOLicu2GZZcX822w/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-04T21:38:30+08:00][error] array (
+  'openid' => 'o0ojJ5nm9ouXGXbCcsDyKRzvVi_I',
+  'nickname' => '月光',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/B7iaFvPPmtzfLpU1vSt6pj98fYA5SJRnjNHlEfh8sl7Hqiczjsl466xicComA1nAjvkkadEEmR05NXoek6oo3L6hQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

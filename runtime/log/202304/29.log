@@ -1,0 +1,140 @@
+[2023-04-29T01:35:25+08:00][error] array (
+  'openid' => 'o0ojJ5t64kfCCXBaRdEcefXBQzEk',
+  'nickname' => '粒',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLcT62xfK1U6nwPl6ErSOY0e2ZVpFMSC5ztvicpjeSlsInicwf2Ehml6tUbw5V1v9ibM2u6AIdhyibNPA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-29T01:41:37+08:00][error] array (
+  'openid' => 'o0ojJ5n-BcdOMYS-YTc4egGGAXhc',
+  'nickname' => '汤百年健康咨询',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/0LiajlsVCtqrZ0YJYn7jibkLTicW4Yj3mhvV4ddmr3iavZmPicEUicuUk9qoRXgKN6IBiarAjlniaQvhaATwSNribQm0ibSw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-29T14:33:37+08:00][error] array (
+  'openid' => 'o0ojJ5icF53CwDRNOhu-eVltoqeM',
+  'nickname' => '不吃香菜',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKaDzYXdWR9q3gJTkNYcERSlicxSf3SstTWCtwQp9ibYahgrH3qg713zNIRHUTicLfIriaHcn2tYiar4TA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-29T16:19:20+08:00][error] array (
+  'openid' => 'o0ojJ5hPHrpRXeZQJTWbRWdhn7Sk',
+  'nickname' => '艳艳',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/bo718RjUy584F97aGMV0advT4kNRSdeiaSprxGm6wbpeMULQW1rib8C7InwbHsoY9yJic3wvGMMkxhmbzVjxhHyLA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-29T16:21:11+08:00][error] array (
+  'openid' => 'o0ojJ5hnx5X1wAfhfq6IqxCfYg9s',
+  'nickname' => '小仙女',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/IXht1aItKN551WU3gVUrRlKXF1R3GXWNqwfBiciaXyM1vNfzIxichoFCT1woWtpiajn6TVk9JXTk3NbSbOsxsugv6w/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-29T17:04:53+08:00][error] array (
+  'openid' => 'o0ojJ5tiOO8VIT2P4buU4Vg8gSFI',
+  'nickname' => '温婉',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKAGkG5x0hvhlWHNB0Lhkj2tdorGlbxStV30tGyBo8hjq7nJGySfNTwIcoibOIia4yxzwFNhFOykhaQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-29T18:23:19+08:00][error] array (
+  'openid' => 'o0ojJ5sRY6KmziT4iite0T3xaQWU',
+  'nickname' => 'FlowerGod',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKaJMia4vYGQrAZfqpibFNoFiaricdgy7mfeh7KcKOVSkgAdJOdP9ibckquGGIyib5JxCq0YLonfjgOH9Eg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-29T22:11:18+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-29T22:11:40+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-29T22:13:09+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-29T22:15:05+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-29T22:17:28+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-29T23:14:04+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-29T23:14:41+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]

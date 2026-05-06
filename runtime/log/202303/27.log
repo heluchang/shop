@@ -1,0 +1,19 @@
+[2023-03-27T23:23:53+08:00][error] array (
+  'openid' => 'o_RmP57CP0e7tLy-3bpG5uyImITI',
+  'nickname' => 'Passerby',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/BavOCiaT6LVpbibGgiaxJOZSI7UFPeIb5Y9NMU7QOwOjezX87TzjS8xYRtBjf0NxpcUqRI5SB9z8sbtkXxe66YyNA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

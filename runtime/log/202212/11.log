@@ -1,0 +1,61 @@
+[2022-12-11T11:51:58+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-12-11T20:13:26+08:00][error] array (
+  'openid' => 'oLwy45u4_u4gVPHOMHPU5pbaU2FE',
+  'nickname' => '美美哒',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLkXQic8ftrrvYMiaGCkJ79aXd1ibwNv9TT8MWRSugkoFqt40SVEYhiay0NG5pbsP4IVrzuMDhFIoT8YQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2022-12-11T23:01:51+08:00][error] array (
+  'openid' => 'oLwy45ggoHw0eAlOK3QFeivavBaU',
+  'nickname' => '美美哒',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/vM2NmFZQYmYW4eicYaDuOKL8KibfSqibb26SeITKKnzeicgtbFD7icc91rNNXdxSmqWHbQkWLeVNia203V61hGYyh1OQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2022-12-11T23:03:23+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-12-11T23:04:50+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-12-11T23:05:02+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-12-11T23:36:44+08:00][error] array (
+  'openid' => 'oLwy45gCX5PVGDDxd5C5LA9Ckw2E',
+  'nickname' => '一一',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/6EGaSsFlO2M8icAiaO9rFialhKnBfXZx55K9NxaVWuEQRDF8lEqCH5vX4VhAa6DMhTIiahpIHq6byqAPH0t6uzT5BQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

@@ -1,0 +1,20 @@
+[2022-12-05T00:07:06+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-12-05T12:16:43+08:00][error] array (
+  'openid' => 'oLwy45pPA4gtFfBrRxqb748g180s',
+  'nickname' => 'AA林头电信刘圣亮15305555687',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqm8G9MOGgkWIibF46LbwULLBR9676rw47hS4Jl5ZyuXmesyMXcaznTaudsibMnAPFfeUYicwiaewtCXQ/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

@@ -1,0 +1,20 @@
+[2023-06-29T00:20:19+08:00][error] array (
+  'openid' => 'o0ojJ5sye9d0iRE3mnCRPN044M3g',
+  'nickname' => '一切皆有可能',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/MMdBiaDkCsfNAz0cXsqHYAQQOAeGUFImfyLWjb61Q5dHg2R3M8xvfPHqufyeLyDIY5pRUMls6ibmSicQAl26HClyg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-06-29T21:49:11+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]

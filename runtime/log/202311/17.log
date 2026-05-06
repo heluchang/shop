@@ -1,0 +1,76 @@
+[2023-11-17T01:05:09+08:00][error] array (
+  'openid' => 'oR3nC6qHooSw0HoDrSXQv8YWz2QM',
+  'nickname' => '慢热小仙女',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Mx7jXSfvkx1Qlc6N6OAt9T74jptP8jjBTb74zr9bcsLaFvXHHWjHorNEqS1LzJks4RlC5IS09RNgZg9qqzyhia8CXAibCfib27Oz03m5Z1epDs/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-17T23:33:25+08:00][error] array (
+  'openid' => 'oOJFH6oAn-G03urKG4awtC3e94j4',
+  'nickname' => 'K.（说明来意）',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEK63Zwibicw9PjNe2RLOG8lAKGLZ4ySN3oQmFE1FS4qo88t1avNX8Lnp2Kib2iaykIydUz8wrdg64fZ986f1nT8rvqvknKPYk9xF9RN5WFU5tXq2g/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-17T23:34:08+08:00][error] array (
+  'openid' => 'oOJFH6nMvqAMwuGUDF9oR60HTWgw',
+  'nickname' => '。',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Wm89LvRU2NugKVHiavibJQib85r0E5x1tuicMmO3TaEbOXMsZflLpL2NNkQzNzib0SpBGK4g4eW3qg27JcjHYqG1UtA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-11-17T23:57:26+08:00][error] array (
+  'openid' => 'oOJFH6mf0-zEh7RXngbpVe2GDaoo',
+  'nickname' => '鬼生须',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/RE9hVpGRhcicl1iaIzBoTxoXIZH3Zhicll7GkkhTgyfevFW9dZoZSIzib40OEYGx21wKsZibjKHqgbyVfLLYFMgQAYg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

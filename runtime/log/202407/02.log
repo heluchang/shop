@@ -1,0 +1,4 @@
+[2024-07-02T18:04:11+08:00][error] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'o4zqI5hvLpLZq2HRlEtM120hnGMo' for key 'openid'[/www/wwwroot/shop.slyxkj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php:771]
+[2024-07-02T19:43:28+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-07-02T19:43:52+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
+[2024-07-02T21:36:53+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]

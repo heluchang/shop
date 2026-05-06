@@ -1,0 +1,58 @@
+[2023-04-03T09:40:52+08:00][error] array (
+  'openid' => 'o_RmP59MlKlub_kUz60mNP4j0988',
+  'nickname' => '商城小程序',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKCT77OO5eZjNVQllgqkbibxfCqGdY7TBVAlN0T3rtzztQbQKazo9yDyKmRfHf2WgpDZLanvkmbJkA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-03T16:29:08+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/h5.jklei.club/crmeb/services/AccessTokenServeService.php:127]
+[2023-04-03T18:20:44+08:00][error] array (
+  'openid' => 'o_RmP56zYtJKYUea0z9ecg7sYjOk',
+  'nickname' => '.',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/YQGDylYM07fkuzntDVrdLEXZHVhXXBdmn3rtWEB2tRIrmRiaoa5yjfomW1nzfMW5yn9zRhjyNj8Piar4v9ZbEKHw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-03T20:42:22+08:00][error] array (
+  'openid' => 'o_RmP5zhmzlCXFZHGhNPRxAbQ16E',
+  'nickname' => '小八',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/mbalywiaENf6BwdPXBs5RGiahr050QNeznyuKssKk0sIkS0lMia5Jpf2FknPibMRdlj14cwWCeJiaQWeBUArudgSRdA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

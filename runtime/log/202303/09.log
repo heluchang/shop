@@ -1,0 +1,19 @@
+[2023-03-09T23:05:19+08:00][error] array (
+  'openid' => 'oTrkU57pBcnKzI-3cqPDhGclTiLc',
+  'nickname' => '小护士',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIa43GnxuosKOiauWj2XwianYAKQGpF3RxgEBfR0DiaNIv13z7tuPNJbtyxf7AaRwtAQAK4Ou60ibkuIA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)

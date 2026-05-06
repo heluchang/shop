@@ -1,0 +1,46 @@
+[2022-11-22T13:54:45+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-11-22T15:07:25+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-11-22T15:45:40+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-11-22T15:47:59+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif
+[2022-11-22T18:39:23+08:00][error] array (
+  'openid' => 'oLwy45ggDiMuSpA8I5Hk-3P0XZAY',
+  'nickname' => 'Rcc',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/NJ2ZsP1tOViaNiczneZfESnVOhHTTwiaibQOHc18SmdlA8JZOcYsszbeIjxZM4wgv7dr3MtfLAlXFsCstat24y4ibmA/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2022-11-22T20:55:20+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/www.baidu.com/crmeb/services/AccessTokenServeService.php:127]
+[2022-11-22T20:56:04+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/www.baidu.com/crmeb/services/AccessTokenServeService.php:127]
+[2022-11-22T20:56:09+08:00][error] [0]接口请求失败:请填写用户名[/www/wwwroot/www.baidu.com/crmeb/services/AccessTokenServeService.php:127]
+[2022-11-22T21:05:24+08:00][error] array (
+  'openid' => 'oLwy45pxLuaVNSKVMEdUIPgw9PXc',
+  'nickname' => '珍惜',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/FO2icUicrNFiad5b0p3eIrxe4tCc2ZYNiciaic2J7JGtzl4TCvmElzwE0LcFgYBoicKzm6Hjyk1gIZJRBu1aPwbtYfeAw/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2022-11-22T22:35:16+08:00][error] 获取缩略图失败，原因：Illegal image file----/www/wwwroot/www.baidu.com/crmeb/services/upload/storage/Local.php----247----https://zhao.mt.gigigi.cc/uploads/attach/2022/06/20220615/c95e73dc03898dee10d6f61c1eb220b2.gif

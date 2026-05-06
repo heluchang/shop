@@ -1,0 +1,13 @@
+{
+  "name": "crmeb-uni-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CRMEB uni-app H5 开发辅助脚本（仅 scripts，不用于构建）",
+  "scripts": {
+    "proxy": "node dev-proxy.js",
+    "dev": "node dev-proxy.js"
+  },
+  "dependencies": {
+    "weixin-js-sdk": "^1.6.5"
+  }
+}

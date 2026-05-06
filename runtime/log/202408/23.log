@@ -1,0 +1,16 @@
+[2024-08-23T04:03:55+08:00][error] array (
+  'phone' => '',
+  'unionid' => '',
+  'headimgurl' => 'http://yk.jklei.club/uploads/attach/2022/05/20220516/747c5d1c1bafa429b22fb27da807d826.png',
+  'nickname' => '',
+  'province' => '',
+  'country' => '',
+  'city' => '',
+  'openid' => '123',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'apple',
+  'is_complete' => 1,
+  'user_type' => 'apple',
+)

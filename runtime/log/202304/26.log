@@ -1,0 +1,43 @@
+[2023-04-26T02:34:13+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-26T02:35:28+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-26T02:37:30+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/600.k0513.top/app/services/user/LoginServices.php:128]
+[2023-04-26T02:37:33+08:00][error] [0]Request AccessToken fail. response: {"errcode":40163,"errmsg":"code been used, rid: 64481dec-66267c58-46f34f5d"}[/www/wwwroot/600.k0513.top/crmeb/services/easywechat/oauth2/wechat/WechatOauth.php:162]
+[2023-04-26T11:18:54+08:00][error] array (
+  'openid' => 'o0ojJ5tGI7dijn0emh8uE7Tw81vw',
+  'nickname' => 'C',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJJ5M5CtUHpJx9W6NYf1kicvB0oa82EHZacLt1kR4RceItoxFJThwwBMh3etHiccSGPyKQp2Rl0AErg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-26T17:47:45+08:00][error] array (
+  'openid' => 'o0ojJ5oz5YUc3kP0tRDc0WBQVFoo',
+  'nickname' => '一天',
+  'sex' => 0,
+  'language' => '',
+  'city' => '',
+  'province' => '',
+  'country' => '',
+  'headimgurl' => 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIgB6lCLAL69MZJKnyYpcg3RRtib8cNVXXb3ezyHY3aAPX7peyJFlQHZtbYY0Ricmj1mLBJN6ThHBQg/132',
+  'privilege' => 
+  array (
+  ),
+  'user_type' => 'wechat',
+  'staff_id' => 0,
+  'agent_id' => 0,
+  'division_id' => 0,
+  'login_type' => 'wechat',
+  'is_complete' => 1,
+)
+[2023-04-26T19:18:31+08:00][error] [0]账号或密码错误，请重新输入[/www/wwwroot/600.k0513.top/app/services/system/admin/SystemAdminServices.php:70]
