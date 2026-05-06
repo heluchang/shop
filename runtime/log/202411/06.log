@@ -1,2 +1,0 @@
-[2024-11-06T20:21:52+08:00][error] 向后台发送新订单消息失败,失败原因:stream_socket_client(): unable to connect to tcp://127.0.0.1:20012 (Connection refused)
-[2024-11-06T20:22:16+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]

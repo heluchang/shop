@@ -1,4 +1,0 @@
-<?php
-//000000007000
- exit();?>
-C:29:"EasyWeChat\Support\Collection":349:{a:9:{s:11:"return_code";s:7:"SUCCESS";s:10:"return_msg";s:2:"OK";s:11:"result_code";s:7:"SUCCESS";s:6:"mch_id";s:10:"1682608340";s:5:"appid";s:18:"wx392c8c42b6c7bffa";s:9:"nonce_str";s:16:"P4A9dzKMsTD7cZTq";s:4:"sign";s:32:"F5E4BE4635F490B540C8E75679C6840B";s:9:"prepay_id";s:36:"wx021509532247648fea0d0a017cf4690001";s:10:"trade_type";s:5:"JSAPI";}}

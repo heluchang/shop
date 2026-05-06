@@ -1,6 +1,0 @@
-[2024-06-20T19:27:21+08:00][error] [10501]SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~admin'[/www/wwwroot/shop.slyxkj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php:771]
-[2024-06-20T19:27:21+08:00][error] [10501]SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~admin'[/www/wwwroot/shop.slyxkj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php:771]
-[2024-06-20T19:29:19+08:00][error] [10501]SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~admin'[/www/wwwroot/shop.slyxkj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php:771]
-[2024-06-20T19:32:33+08:00][error] [10501]SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~admin'[/www/wwwroot/shop.slyxkj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php:771]
-[2024-06-20T19:53:33+08:00][error] [10501]SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~thisisfalse'[/www/wwwroot/shop.slyxkj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php:771]
-[2024-06-20T19:56:18+08:00][error] [10501]SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~thisisfalse'[/www/wwwroot/shop.slyxkj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php:771]

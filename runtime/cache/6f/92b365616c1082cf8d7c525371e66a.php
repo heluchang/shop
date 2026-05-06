@@ -1,4 +1,0 @@
-<?php
-//000000001800
- exit();?>
-s:35:"SMJBZ-WCHK4-ZPZUA-DSIXI-XDDVQ-XWFX7";

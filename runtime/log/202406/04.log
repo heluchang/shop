@@ -1,2 +1,0 @@
-[2024-06-04T22:30:42+08:00][error] [0]Request AccessToken fail. response: {"errcode":40029,"errmsg":"invalid code, rid: 665f2512-2beed4b5-27f65d16"}[/www/wwwroot/shop.slyxkj.cn/crmeb/services/easywechat/oauth2/wechat/WechatOauth.php:162]
-[2024-06-04T22:30:45+08:00][error] [0]Request AccessToken fail. response: {"errcode":40029,"errmsg":"invalid code, rid: 665f2515-11c01cc9-2972498c"}[/www/wwwroot/shop.slyxkj.cn/crmeb/services/easywechat/oauth2/wechat/WechatOauth.php:162]

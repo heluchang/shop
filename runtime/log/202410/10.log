@@ -1,1 +1,0 @@
-[2024-10-10T14:24:14+08:00][error] [10501]SQLSTATE[HY000]: General error: 1772 Malformed GTID set specification '~~~shop@localhost~~~'.[/www/wwwroot/shop.slyxkj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php:771]

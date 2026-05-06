@@ -1,7 +1,0 @@
-[2024-10-17T19:53:25+08:00][error] 向后台发送新订单消息失败,失败原因:stream_socket_client(): unable to connect to tcp://127.0.0.1:20012 (Connection refused)
-[2024-10-17T19:53:36+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
-[2024-10-17T19:53:59+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
-[2024-10-17T19:58:46+08:00][error] 向后台发送新订单消息失败,失败原因:stream_socket_client(): unable to connect to tcp://127.0.0.1:20012 (Connection refused)
-[2024-10-17T19:59:00+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
-[2024-10-17T19:59:07+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]
-[2024-10-17T19:59:08+08:00][error] [8]Trying to access array offset on value of type null[/www/wwwroot/shop.slyxkj.cn/app/api/controller/v1/order/StoreOrderController.php:653]

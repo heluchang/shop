@@ -1,3 +1,0 @@
-[2024-08-21T12:51:42+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/shop.slyxkj.cn/app/services/user/LoginServices.php:128]
-[2024-08-21T13:13:54+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/shop.slyxkj.cn/app/services/user/LoginServices.php:128]
-[2024-08-21T13:28:58+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/shop.slyxkj.cn/app/services/user/LoginServices.php:128]

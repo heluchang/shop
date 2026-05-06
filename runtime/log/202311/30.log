@@ -1,3 +1,0 @@
-[2023-11-30T22:18:48+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/lkk.payshu.top/app/services/user/LoginServices.php:128]
-[2023-11-30T22:19:28+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/lkk.payshu.top/app/services/user/LoginServices.php:128]
-[2023-11-30T22:21:19+08:00][error] [8]Trying to get property 'agent_id' of non-object[/www/wwwroot/lkk.payshu.top/app/services/user/LoginServices.php:128]

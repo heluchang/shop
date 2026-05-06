@@ -1,4 +1,0 @@
-<?php
-//000000001800
- exit();?>
-a:19:{s:2:"id";i:21;s:4:"mark";s:21:"order_postage_success";s:4:"name";s:24:"发货快递提醒发送";s:5:"title";s:30:"发货快递用户提醒发送";s:9:"is_system";i:1;s:6:"is_app";i:1;s:9:"is_wechat";i:1;s:10:"is_routine";i:1;s:6:"is_sms";i:2;s:13:"is_ent_wechat";i:0;s:12:"system_title";s:12:"发货通知";s:11:"system_text";s:98:"亲爱的用户{nickname}您的商品{store_name}，订单号{order_id}已发货，请注意查收";s:6:"app_id";i:0;s:6:"sms_id";i:441596;s:15:"ent_wechat_text";s:1:"0";s:8:"variable";s:148:"{nickname}用户昵称,{store_name}商品名称,{order_id}订单号,{delivery_name}快递名称,{delivery_id}快递单号,{user_address}收货地址";s:3:"url";s:0:"";s:4:"type";i:1;s:8:"add_time";i:0;}
